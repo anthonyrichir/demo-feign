@@ -1,0 +1,19 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "text",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20180529105050",
+    "dto": "mapstruct",
+    "service": "serviceClass",
+    "entityTableName": "consumer",
+    "jpaMetamodelFiltering": false,
+    "pagination": "pagination",
+    "microserviceName": "consumerApi",
+    "searchEngine": false
+}
